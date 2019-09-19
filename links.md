@@ -1,6 +1,17 @@
+ONLINE
+https://codepen.io/pen/
+https://xmlgrid.net/
+https://js.do/
+
+
+PC
 http://basex.org/
 https://www.oxygenxml.com/
 https://sourceforge.net/projects/npp-plugins/files/XML%20Tools/
 https://www.editix.com/
 https://sourceforge.net/projects/xml-copy-editor/
+http://xml-copy-editor.sourceforge.net/
+https://archive.codeplex.com/?p=xmlexplorer
+http://www.lovettsoftware.com/downloads/xmlnotepad/readme.htm
+https://sourceforge.net/projects/xmlvalidator/
 
