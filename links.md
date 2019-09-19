@@ -23,6 +23,7 @@ https://www.w3schools.com/xml/xml_validator.asp
 CURSOS  
 
 http://ixml.uaedf.ua.es/course  
+http://www.mclibre.org/consultar/xml/index.html
   
   
 
