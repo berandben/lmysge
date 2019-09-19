@@ -5,11 +5,16 @@ https://js.do/
 https://www.validome.org/xml-rpc-validator/
 https://www.w3schools.com/xml/default.asp
 https://chrome.google.com/webstore/detail/xv-%E2%80%94-xml-viewer/eeocglpgjdpaefaedpblffpeebgmgddk
-https://validator.w3.org/#validate_by_uri+with_options
+https://validator.w3.org/
+http://jigsaw.w3.org/css-validator/
 https://www.w3schools.com/xml/xml_validator.asp
 
 CURSOS
 http://ixml.uaedf.ua.es/course
+
+YOUTUBE
+https://www.youtube.com/watch?v=1qFhBPkQqEM&list=PLM8XywipQpGDbMqCozQ1LQ0owaRgMqHWe
+https://www.youtube.com/watch?v=bCd2xaQrTAo&list=PLKLLGxMgKZ_QrK6eY106uNWOYmzmA61_B
 
 
 PC
