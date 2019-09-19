@@ -3,6 +3,7 @@ https://codepen.io/pen/
 https://xmlgrid.net/
 https://js.do/
 https://www.validome.org/xml-rpc-validator/
+https://www.w3schools.com/xml/default.asp
 
 CURSOS
 http://ixml.uaedf.ua.es/course
