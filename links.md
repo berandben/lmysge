@@ -4,6 +4,9 @@ https://xmlgrid.net/
 https://js.do/
 https://www.validome.org/xml-rpc-validator/
 
+CURSOS
+http://ixml.uaedf.ua.es/course
+
 
 PC
 http://basex.org/
