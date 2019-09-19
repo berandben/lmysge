@@ -55,4 +55,8 @@ http://www.lovettsoftware.com/downloads/xmlnotepad/readme.htm
 
 https://sourceforge.net/projects/xmlvalidator/  
 
+LINUX http://xmlsoft.org/xmllint.html  
+
+
+
 
