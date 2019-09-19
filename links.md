@@ -24,7 +24,8 @@ CURSOS
 
 http://ixml.uaedf.ua.es/course  
 http://www.mclibre.org/consultar/xml/index.html  
-https://www.asanzdiego.com/2015/11/elementos-xml-vs-atributos-xml.html
+https://www.asanzdiego.com/2015/11/elementos-xml-vs-atributos-xml.html  
+https://www.asanzdiego.com/2015/11/validacion-de-ficheros-xml.html
   
   
 
