@@ -6,6 +6,7 @@ https://www.validome.org/xml-rpc-validator/
 https://www.w3schools.com/xml/default.asp
 https://chrome.google.com/webstore/detail/xv-%E2%80%94-xml-viewer/eeocglpgjdpaefaedpblffpeebgmgddk
 https://validator.w3.org/#validate_by_uri+with_options
+https://www.w3schools.com/xml/xml_validator.asp
 
 CURSOS
 http://ixml.uaedf.ua.es/course
