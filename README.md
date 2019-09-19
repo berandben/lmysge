@@ -1,2 +1,0 @@
-# lmysge
-http://basex.org/
