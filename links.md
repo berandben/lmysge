@@ -2,6 +2,7 @@ ONLINE
 https://codepen.io/pen/
 https://xmlgrid.net/
 https://js.do/
+https://www.validome.org/xml-rpc-validator/
 
 
 PC
