@@ -46,7 +46,9 @@ http://basex.org/
 
 https://www.oxygenxml.com/  
 
-https://sourceforge.net/projects/npp-plugins/files/XML%20Tools/  
+https://sourceforge.net/projects/npp-plugins/files/XML%20Tools/ 
+
+http://plugins.netbeans.org/plugin/18522/xpathutil  
 
 https://www.editix.com/  
 
