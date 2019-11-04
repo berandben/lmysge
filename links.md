@@ -27,7 +27,7 @@ http://www.mclibre.org/consultar/xml/index.html
 https://www.asanzdiego.com/2015/11/elementos-xml-vs-atributos-xml.html  
 https://www.asanzdiego.com/2015/11/validacion-de-ficheros-xml.html  
 http://flanagan.ugr.es/xml/xml.htm  
-https://www.abrirllave.com/xml/
+https://www.abrirllave.com/xml/  
 https://sites.google.com/site/todoxmldtd/ejercicios
   
   
