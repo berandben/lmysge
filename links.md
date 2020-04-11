@@ -23,7 +23,12 @@ http://jigsaw.w3.org/css-validator/
 
 https://www.w3schools.com/xml/xml_validator.asp   
 
-https://www.mclibre.org/  
+https://www.mclibre.org/   
+
+Expresiones xpath online
+
+http://xpather.com/  
+
 
 
 
