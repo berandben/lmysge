@@ -10,7 +10,9 @@ https://www.mclibre.org/consultar/xml/lecciones/xml-xpath.html
      
 https://www.w3.org/TR/xpath/all/   
      
-https://www.w3.org/2005/xpath-functions/
+https://www.w3.org/2005/xpath-functions/  
+
+http://www.zvon.org/xxl/XSLTutorial/Books/Book1/index.html
      
      
     
