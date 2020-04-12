@@ -1,4 +1,22 @@
-  Ejercicios XML  
+    XML  
+    
+    https://en.wikipedia.org/wiki/XPath  
+    
+    http://informaticafacil73.blogspot.com/2014/08/ejercicios-xpath.html  
+    
+     https://www.mclibre.org/consultar/xml/  
+     
+     https://www.mclibre.org/consultar/xml/lecciones/xml-xpath.html  
+     
+     https://www.w3.org/TR/xpath/all/  
+     
+     
+    
+    
+    
+    
+    
+    Ejercicios XML  
   
   https://sites.google.com/site/todoxmldtd/ejercicios  
   
